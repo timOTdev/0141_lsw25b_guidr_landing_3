@@ -1,11 +1,11 @@
 
 ## To view this app online
 
-- To view deployed app, visit: [Guidr Home](http://192.168.86.27:3000/)
+- To view deployed app, visit: [Guidr Home]()
 
 ## About
 
-- [Guidr](http://192.168.86.27:3000/) is an app that helps backcountry guides of all types log their private/professional trips.
+- [Guidr]() is an app that helps backcountry guides of all types log their private/professional trips.
 - Sign up for an account, add adventures, see different profile
 - Currently: Stable Version v1.0 -- updates are possible, not currently planned (as of 2/8/2019)
 
