@@ -1,3 +1,4 @@
+# 0141_lsw25b_guidr_landing_3
 
 ## To view this app online
 
@@ -9,7 +10,6 @@
 - Sign up for an account, add adventures, see different profile
 - Currently: Stable Version v1.0 -- updates are possible, not currently planned (as of 2/8/2019)
 
-
 ## Technologies for this project
 
 - [React](https://reactjs.org/)
@@ -17,9 +17,9 @@
 - [Reactstrap](https://reactstrap.github.io/)
 - [Web Font Loader](https://www.npmjs.com/package/webfontloader)
 
-------------------- 
+-------------------
 
-## By The Guidr Team 
+## By The Guidr Team
 
 - UI team: Steven Jefferson, James Goodnight, Itel Domingo
 - Lead Frontend Developer: Matt Basile
@@ -28,11 +28,11 @@
 
 ## Features
 
-[Guidr](https://guidr2.netlify.com/) 
+[Guidr](https://guidr2.netlify.com/)
 A powerful front-end platform built with React, Redux, React Router, Axios, Greensock, and Tailwind CSS
+
 - Sign up and log into your own account
 - Ability to add full name, location, and bio to a user's account
 - Add/update/delete adventures
 - Check out adventures in the Newsfeed
 - Check out user's profiles
-
